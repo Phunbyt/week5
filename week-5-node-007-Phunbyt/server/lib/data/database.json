@@ -1,0 +1,21 @@
+[
+  {
+    "updatedAt": "2021-04-26T19:40:59.058Z",
+    "organization": "Useles Post man",
+    "products": [
+      "developers",
+      "pizza"
+    ],
+    "marketValue": "90%",
+    "address": "ibadan",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "id": 1,
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ],
+    "createdAt": "2020-08-12T19:04:55.455Z"
+  }
+]
